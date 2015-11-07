@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">boxed.</string>
     <string name="bored_button_text">i\'m bored!</string>
+    <string name="title_activity_add">Add Task</string>
+    <string name="task_hint">type in your task here</string>
+    <string name="first_duration">5min</string>
+    <string name="second_duration">15min</string>
+    <string name="third_duration">30min</string>
+    <string name="action_profile">profile</string>
 </resources>

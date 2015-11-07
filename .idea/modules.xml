@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/BoxedMobile.iml" filepath="$PROJECT_DIR$/BoxedMobile.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boxedApp.iml" filepath="$PROJECT_DIR$/boxedApp.iml" />
     </modules>
   </component>
 </project>
