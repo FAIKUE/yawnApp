@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">boxed.</string>
+    <string name="app_name">yawn.</string>
     <string name="bored_button_text">i\'m bored!</string>
     <string name="title_activity_add">Add Task</string>
     <string name="task_hint">type in your task here</string>
